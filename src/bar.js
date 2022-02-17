@@ -1,7 +1,6 @@
 import React from 'react';
 import * as d3 from "d3";
 import './bar.css';
-import { transition } from 'd3';
 export default class MyD3Component extends React.Component {
   constructor(props) {
     super(props);
